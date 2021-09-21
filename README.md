@@ -3,28 +3,51 @@
 
 ## About IBIS - Gestão de Atas
 
+IBIS - Gestão de Atas is a meetings manager web app.
+
+It was created as the final project of a Technologies and Information Systems Programming course.
+
+The app allows the class coordinators to book class meetings with the other class teachers. It gathers every teacher feedback regarding each student of that class, so that the class coordinator can automatically print out a minute of that meeting in pdf format.
+
+There are 3 user roles: admin (Administrador), coordinator (Coordenador) and teacher (Formador).
+
+The following Use Cases diagram gives an overview on what each role is able to do in the app.
+
+<p align="center"><img src="./public/images/useCases.png" width="400"></p>
+
+    
+
+After installation, and seeding, you can login as:
+    - an Admin
+        User: admin@example.com
+        Pass: 123456789
+
+    - a Coordinator
+        User: coord@example.com
+        Pass: 123456789
+    
+    - a teacher
+        User: prof@example.com
+        Pass: 123456789
+
 ## Getting started
 
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.4/installation#installation)
-
-Alternative installation is possible without local dependencies relying on [Docker](#docker). 
+Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/7.x/installation)
 
 
 ### Installation
 
-
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone git@github.com:Ricano/ibis.git
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd ibis
 
 Install all the dependencies using composer
 
@@ -38,13 +61,13 @@ Generate a new application key
 
     php artisan key:generate
 
-Generate a new JWT authentication secret key
-
-    php artisan jwt:generate
-
 Run the database migrations (**Set the database connection in .env before migrating**)
 
     php artisan migrate
+
+Run the database seeder
+
+    php artisan db:seed
 
 Start the local development server
 
@@ -54,14 +77,6 @@ You can now access the server at http://localhost:8000
 
 
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Ricano/ibis.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
 
 ## This app was built with Laravel
 
