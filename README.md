@@ -18,6 +18,7 @@ The following Use Cases diagram gives an overview on what each role is able to d
     
 
 After installation and seeding you can login as:
+
     - an Admin
         User: admin@example.com
         Pass: 123456789
