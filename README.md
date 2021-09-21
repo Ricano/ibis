@@ -11,13 +11,13 @@ The app allows the class coordinators to book class meetings with the other clas
 
 There are 3 user roles: admin (Administrador), coordinator (Coordenador) and teacher (Formador).
 
-The following Use Cases diagram gives an overview on what each role is able to do in the app.
+The following Use Cases diagram gives an overview on what each role is able to do within the app. (written in portuguese)
 
 <p align="center"><img src="./public/images/useCases.png" width="400"></p>
 
     
 
-After installation, and seeding, you can login as:
+After installation and seeding you can login as:
     - an Admin
         User: admin@example.com
         Pass: 123456789
@@ -26,7 +26,7 @@ After installation, and seeding, you can login as:
         User: coord@example.com
         Pass: 123456789
     
-    - a teacher
+    - a Teacher
         User: prof@example.com
         Pass: 123456789
 
@@ -75,7 +75,10 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
-
+## Authors
+    https://www.linkedin.com/in/ricardo-filipe-caetano/
+    https://www.linkedin.com/in/daniel-guimar%C3%A3es-a10097a2/
+    https://www.linkedin.com/in/luis-ferreira-a03301b8/
 
 
 ## This app was built with Laravel
