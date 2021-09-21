@@ -76,10 +76,16 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
+## License
+
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 ## Authors
-    https://www.linkedin.com/in/ricardo-filipe-caetano/
-    https://www.linkedin.com/in/daniel-guimar%C3%A3es-a10097a2/
-    https://www.linkedin.com/in/luis-ferreira-a03301b8/
+   [Daniel Guimarães](https://www.linkedin.com/in/daniel-guimar%C3%A3es-a10097a2/)
+   [Luís Ferreira](https://www.linkedin.com/in/luis-ferreira-a03301b8/)
+   [RicardoCaetano](https://www.linkedin.com/in/ricardo-filipe-caetano/)
 
 
 ## This app was built with Laravel
