@@ -17,17 +17,17 @@ The following Use Cases diagram gives an overview on what each role is able to d
 
     
 
-After installation and seeding you can login as:
+After installation and seeding you can login as
 
-    - an Admin
+    an Admin
         User: admin@example.com
         Pass: 123456789
 
-    - a Coordinator
+    a Coordinator
         User: coord@example.com
         Pass: 123456789
     
-    - a Teacher
+    a Teacher
         User: prof@example.com
         Pass: 123456789
 
