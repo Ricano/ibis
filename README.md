@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/7.x/installation)
+Please check the official laravel installation guide for Server Requirements before you start. [Official Documentation](https://laravel.com/docs/7.x/installation/#server-requirements)
 
 
 ### Installation
