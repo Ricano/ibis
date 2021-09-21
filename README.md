@@ -83,8 +83,11 @@ You can now access the server at http://localhost:8000
 
 
 ## Authors
+
    [Daniel Guimarães](https://www.linkedin.com/in/daniel-guimar%C3%A3es-a10097a2/)
+
    [Luís Ferreira](https://www.linkedin.com/in/luis-ferreira-a03301b8/)
+
    [RicardoCaetano](https://www.linkedin.com/in/ricardo-filipe-caetano/)
 
 
