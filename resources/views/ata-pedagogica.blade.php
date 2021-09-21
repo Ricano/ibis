@@ -7,7 +7,7 @@
         <div style="display: flex;justify-content: flex-start ; padding:0 24px">
             <div style="text-align: right; width: 100%">
 
-                <img style="width: 140px; margin-top: 20px" src="images/logoatec.jpg"
+                <img style="width: 140px; margin-top: 20px" src="images/logoa.jpg"
                      alt="ATEC-Academia de Formação">
             </div>
 
@@ -100,7 +100,7 @@
         <div style="display: flex;justify-content: flex-start ; padding:0 24px">
             <div style="text-align: right; width: 100%">
 
-                <img style="width: 140px; margin-top: 20px" src="images/logoatec.jpg"
+                <img style="width: 140px; margin-top: 20px" src="images/logoa.jpg"
                      alt="ATEC-Academia de Formação">
             </div>
 
@@ -164,7 +164,7 @@
             <div style="display: flex;justify-content: flex-start ; padding:0 24px">
                 <div style="text-align: right; width: 100%">
 
-                    <img style="width: 140px; margin-top: 20px" src="images/logoatec.jpg"
+                    <img style="width: 140px; margin-top: 20px" src="images/logoa.jpg"
                          alt="ATEC-Academia de Formação">
                 </div>
 
@@ -225,7 +225,7 @@
             <div style="display: flex;justify-content: flex-start ; padding:0 24px">
                 <div style="text-align: right; width: 100%">
 
-                    <img style="width: 140px; margin-top: 20px" src="images/logoatec.jpg"
+                    <img style="width: 140px; margin-top: 20px" src="images/logoa.jpg"
                          alt="ATEC-Academia de Formação">
                 </div>
 
@@ -332,7 +332,7 @@
                     <div style="display: flex;justify-content: flex-start ; padding:0 24px">
                         <div style="text-align: right; width: 100%">
 
-                            <img style="width: 140px; margin-top: 20px" src="images/logoatec.jpg"
+                            <img style="width: 140px; margin-top: 20px" src="images/logoa.jpg"
                                  alt="ATEC-Academia de Formação">
                         </div>
 
@@ -438,7 +438,7 @@
         <div style="display: flex;justify-content: flex-start ; padding:0 24px">
             <div style="text-align: right; width: 100%">
 
-                <img style="width: 140px; margin-top: 20px" src="images/logoatec.jpg"
+                <img style="width: 140px; margin-top: 20px" src="images/logoa.jpg"
                      alt="ATEC-Academia de Formação">
             </div>
 

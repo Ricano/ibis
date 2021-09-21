@@ -218,7 +218,7 @@
                  box-shadow: 5px 5px 5px dimgray">
                 <h2 style="color: red;text-align: center">    PRE-VISUALIZAÇÃO</h2>
                 <div id="recuperacao-logo-atec-r" style="text-align: right;margin:10px 0px">
-                    <img style="width: 200px" src="{{asset('/images/logoatec.jpg')}}" alt="ATEC-Academia de Formação">
+                    <img style="width: 200px" src="{{asset('/images/logoa.jpg')}}" alt="ATEC-Academia de Formação">
                 </div>
 
                 <div id="recuperacao-titulo-r" style="margin: 10px 0px">

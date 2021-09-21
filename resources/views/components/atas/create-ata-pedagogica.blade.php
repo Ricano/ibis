@@ -23,7 +23,7 @@
              style="box-shadow: black 1px 4px 10px 5px; display: flex;flex-direction: column;justify-content: flex-start ;background-color: white;width: 840px;height: 1188px; padding:50px 80px 50px">
             <h1 style="color: rgba(245,10,10,0.5);text-align: center"> PRE-VISUALIZAÇÃO</h1>
             <div  class="pedagogica-logo-atec-container-r">
-                <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoatec.jpg')}}"
+                <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoa.jpg')}}"
                      alt="ATEC-Academia de Formação">
             </div>
 
@@ -113,7 +113,7 @@
             <h1 style="color: rgba(245,10,10,0.5);text-align: center"> PRE-VISUALIZAÇÃO</h1>
 
             <div class="pedagogica-logo-atec-container-r">
-                <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoatec.jpg')}}"
+                <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoa.jpg')}}"
                      alt="ATEC-Academia de Formação">
             </div>
             <h4 style="margin-bottom: 30px"><strong>
@@ -172,7 +172,7 @@
                 <h1 style="color: rgba(245,10,10,0.5);text-align: center"> PRE-VISUALIZAÇÃO</h1>
 
                 <div class="pedagogica-logo-atec-container-r">
-                    <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoatec.jpg')}}"
+                    <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoa.jpg')}}"
                          alt="ATEC-Academia de Formação">
                 </div>
 
@@ -231,7 +231,7 @@
                 <h1 style="color: rgba(245,10,10,0.5);text-align: center"> PRE-VISUALIZAÇÃO</h1>
 
                 <div class="pedagogica-logo-atec-container-r">
-                    <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoatec.jpg')}}"
+                    <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoa.jpg')}}"
                          alt="ATEC-Academia de Formação">
                 </div>
 
@@ -337,7 +337,7 @@
                     <div
                         style="box-shadow: black 1px 4px 10px 5px; display: flex;flex-direction: column;justify-content: flex-start ;background-color: white;width: 840px;height: 1188px; padding:50px 80px 50px">
                         <div class="pedagogica-logo-atec-container-r">
-                            <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoatec.jpg')}}"
+                            <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoa.jpg')}}"
                                  alt="ATEC-Academia de Formação">
                         </div>
 
@@ -457,7 +457,7 @@
             <h1 style="color: rgba(245,10,10,0.5);text-align: center"> PRE-VISUALIZAÇÃO</h1>
 
             <div class="pedagogica-logo-atec-container-r">
-                <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoatec.jpg')}}"
+                <img class="pedagogica-logo-atec-imagem-r" src="{{asset('/images/logoa.jpg')}}"
                      alt="ATEC-Academia de Formação">
             </div>
 

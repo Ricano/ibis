@@ -9,7 +9,7 @@
 
     <div id="recuperacao-pdf-r" style="display: flex;flex-direction: column;justify-content: space-between ;background-color: white;width: 840px;height: 1188px; padding:100px 80px">
         <div id="recuperacao-logo-atec-r" style="text-align: right;margin:10px 0px">
-            <img style="width: 200px" src="{{asset('/images/logoatec.jpg')}}" alt="ATEC-Academia de Formação">
+            <img style="width: 200px" src="{{asset('/images/logoa.jpg')}}" alt="ATEC-Academia de Formação">
         </div>
         <div id="recuperacao-titulo-r" style="margin: 10px 0px">
             <h2><strong>
